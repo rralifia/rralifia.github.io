@@ -1,71 +1,70 @@
 # Rahma Alifia | Digital Health & Data Portfolio
 
-Personal portfolio site for Rahma Alifia — biomedical informatics and digital health professional focused on health data strategy, consent governance, clinical terminology, AI evaluation, and user-centered product development.
+A professional portfolio showcasing work in biomedical informatics, digital health, public health data systems, and human-centered technology design.
 
-**Live site:** [rralifia.github.io](https://rralifia.github.io)
+🌐 **Live Website:** https://rralifia.github.io
 
 ---
 
 ## About
 
-This portfolio showcases research, product, and policy work at the intersection of health data and human-centered design. Focus areas include:
+I am a biomedical informatics and digital health professional with experience across health data strategy, consent governance, clinical terminology, AI evaluation, and digital product development.
 
-- Health data strategy and interoperability
-- Consent and privacy governance
-- Clinical terminology and knowledge management
-- AI transparency and evaluation in mental health contexts
-- Digital health product development
+This portfolio presents selected research, technical projects, and professional experiences spanning healthcare, public health, and data-driven innovation. The work reflects an interdisciplinary approach that combines informatics, policy, analytics, and user-centered design to support more transparent, ethical, and effective digital health systems.
 
 ---
 
-## Features
+## Areas of Focus
 
-- Responsive single-page layout with smooth scroll navigation
-- Project detail pages for each featured work
-- Downloadable CV
-- Contact section
-
----
-
-## Tech Stack
-
-- **Framework:** React 18 + TypeScript
-- **Build tool:** Vite
-- **Styling:** Tailwind CSS v4
-- **UI components:** shadcn/ui (Radix UI primitives)
-- **Routing:** React Router v7
-- **Deployment:** GitHub Pages via GitHub Actions
+* Health data strategy and interoperability
+* Consent and privacy governance
+* Clinical terminology and ontology-driven systems
+* AI transparency and evaluation in mental health contexts
+* Digital health product development
+* Public health analytics and data visualization
 
 ---
 
-## Local Development
+## What’s Included in the Portfolio
 
-```bash
-# Install dependencies
-pnpm install
-
-# Start development server
-pnpm dev
-```
-
-The site runs at `http://localhost:5173` by default.
+* Professional and academic experience
+* Research and publication projects
+* Technical and data-focused case studies
+* Public health and digital health initiatives
+* Product and UX-oriented work
+* Downloadable CV and supporting materials
 
 ---
 
-## Deployment
+## Design & Development Approach
 
-Pushes to `main` automatically trigger the GitHub Actions workflow (`.github/workflows/deploy.yml`), which builds the site with Vite and deploys the output to GitHub Pages.
+This website was independently designed and developed using modern web technologies and AI-assisted workflows.
+
+### Tools & Workflow
+
+* **Figma Make**: interface exploration and visual prototyping
+* **ChatGPT**: content refinement, planning, and development support
+* **Claude Code**: implementation assistance and code optimization
+
+The portfolio was designed to provide a clean, modern, and recruiter-friendly experience while balancing technical depth with clarity and accessibility.
+
+---
+
+## Technology Stack
+
+| Category      | Technology                    |
+| ------------- | ----------------------------- |
+| Frontend      | React 18 + TypeScript         |
+| Build Tool    | Vite                          |
+| Styling       | Tailwind CSS v4               |
+| UI Components | shadcn/ui + Radix UI          |
+| Routing       | React Router v7               |
+| Deployment    | GitHub Pages + GitHub Actions |
 
 ---
 
 ## Contact
 
-- **Email:** ralifia@asu.edu
-- **Blog:** [ralifia.substack.com](https://ralifia.substack.com)
-
----
-
-## Attributions
-
-UI components from [shadcn/ui](https://ui.shadcn.com/) — MIT License.  
-Photos from [Unsplash](https://unsplash.com) — Unsplash License.
+* **Email:** [rahmaralifia@gmail.com](mailto:rahmaralifia@gmail.com)
+* **GitHub:** https://github.com/rralifia
+* **Blog:** https://ralifia.substack.com
